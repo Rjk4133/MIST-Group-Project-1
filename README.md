@@ -52,17 +52,29 @@ Training Sessions store information on the session ID, the practice date, and mo
 # Data Dictionary
 
 ![Screenshot (327)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/9e29114c-c382-4e28-902e-77c7a6e09901)
+
 ![Screenshot (329)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/30df69a5-bf41-47de-93e6-8621a4e104f6)
+
 ![Screenshot (330)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/9af9af9f-398d-45df-a260-9a9a169b24bb)
+
 ![Screenshot (331)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/86ae3ddf-5652-4684-81d5-3704fc9f17fe)
+
 ![Screenshot (332)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/8c9cf50d-9493-4749-afe2-2f0f4856ec64)
+
 ![Screenshot (333)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/f61bb1d9-5f1f-468e-bc0a-7dcc734c9b90)
+
 ![Screenshot (334)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/acd9891d-eaf9-4c68-aa29-55b9a1859e80)
+
 ![Screenshot (335)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/370ce8ad-0608-426e-8301-e010f8c3d849)
+
 ![Screenshot (336)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/6429c3ac-0a1c-4047-bbdb-63885fc5b0a5)
+
 ![Screenshot (337)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/9d3babd5-f61a-44ac-9650-30b309225157)
+
 ![Screenshot (338)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/3e4ba602-efb1-4b8c-9744-a8ec9e73926c)
+
 ![Screenshot (339)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/19a6ba05-caf3-4b43-a836-fa2cf530e841)
+
 ![Screenshot (340)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/6b3e320a-97f9-497f-8fa8-322493c4d750)
 
 # Queries
