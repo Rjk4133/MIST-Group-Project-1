@@ -1,9 +1,9 @@
-# Group 4 MIST Group Project 1
+# Group 4 MIST Group Project 1:
 
-# Team Name
+# Team Name:
 29704 Group 4
 
-# Team Members
+# Team Members:
 Ryan Dean: [@RDean45](https://github.com/RDean45)
 
 Ryan Kelly: [@Rjk4133](https://github.com/Rjk4133)
@@ -16,11 +16,11 @@ Mattie Garett: [@MatGar22](https://github.com/MatGar22)
 
 Lilly Wood: [@lillywood21](https://github.com/lillywood1)
 
-# Problem Description
+# Problem Description:
 
 The problem that we are trying to solve has to do with the creation of a working database that consolidates data for a soccer club into a functioning model. The main entity that comprises this data and the model is the Team entity which is made up of the different teams that comprise the soccer club and includes information such as their team name and where their home field is. In addition to this, we have other entities such as data on the players that comprise these teams, the statistics for each of these players, the coaching staff that make up the soccer club, and much more. In addition to a working model, we hope to build many working queries that provide data to possible stakeholders of the soccer club to make well informed complex decisions regarding the clubs activities. With this complex data model and the many different queries we hope to deliver working data that can be used by the soccer club to operate at an increased efficiency level and deliver better value to its stakeholders.
 
-# Data Model
+# Data Model:
 Our model is structured like a football (soccer) academy. The Teams entity represents the information stored about each of the different teams in the club including the team ID, the team name, the team’s home field and more. Teams have many matches, which is shown by the one to many identifying relationship between Teams and Teams Have Matches. Teams also have head coaches which is represented by the one to one non identifying relationship between Teams and the entity Coaching Staff. Teams have many coaches which is shown by the one to many non identifying relationship between Teams and Coaching Staff. Teams may also have many sponsors which is represented by the one to many identifying relationship between Teams and the Teams Have Sponsors entity. Teams have many players which is shown by the one to many non identifying relationship between Teams and Player Information. Teams also have captains which are represented by the one to one non identifying relationship between Teams and Player Information.
 
 
@@ -49,7 +49,7 @@ Training Sessions store information on the session ID, the practice date, and mo
 
 ![Data Model Soccer](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/ae4be42a-38b4-4ef0-93bf-a0ceacdf261a)
 
-# Data Dictionary
+# Data Dictionary:
 
 ![Screenshot (327)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/9e29114c-c382-4e28-902e-77c7a6e09901)
 
@@ -77,7 +77,7 @@ Training Sessions store information on the session ID, the practice date, and mo
 
 ![Screenshot (340)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/6b3e320a-97f9-497f-8fa8-322493c4d750)
 
-# Queries
+# Queries:
 ![Screenshot (341)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/0eff719d-fcd4-4d0b-a956-7a1007a9b55d)
 
 1. Query 1 lists how the teams rank in terms of number of goals scored within their respective divisions and what percentage of the league total of goals scored each team accounts for.
@@ -140,13 +140,13 @@ INSERT IMAGE
 
 Query 10 lists the total goals scored by a team that won or tied their match in matches that are classified as competitive. This is useful information as it provides a clear record of which team won each individual match in the matches that are competitive and can be used potentially as the basis of an exterior league standings table that assigns points based on wins and losses.
 
-# Database Information
+# Database Information:
 
 Name of the database: ns_F2329704Group4
 
 Additional Information: Each query listed above is marked in the database using stored procedures which can be called using the following format: INSERT FORMAT
 
-# CHATGPT Logs
+# CHATGPT Logs:
 
 https://chat.openai.com/share/1f833f36-10be-44eb-a8d2-274c12e57837
 
