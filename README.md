@@ -50,7 +50,7 @@ Training Sessions store information on the session ID, the practice date, and mo
 ![Data Model Soccer](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/ae4be42a-38b4-4ef0-93bf-a0ceacdf261a)
 
 # Data Dictionary:
-![Screenshot (343)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/6603c749-244b-4112-91ed-4a598788b61d)
+![Screenshot (359)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/2a997003-7f17-42ad-a221-847d4d22621d)
 
 ![Screenshot (344)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/c85f78dd-b9f2-4e1a-9ed2-ac2cd1fccf1f)
 
@@ -62,11 +62,11 @@ Training Sessions store information on the session ID, the practice date, and mo
 
 ![Screenshot (350)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/9737a48b-8324-475f-9d36-7c320292fd9e)
 
-![Screenshot (351)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/d0fb7237-e9d4-402a-9094-068e8eb3ddd2)
+![Screenshot (360)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/94b8cab7-8aca-48c5-ad09-06da94edf618)
 
 ![Screenshot (352)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/bf288892-fc70-4dad-b2d6-f0443f869773)
 
-![Screenshot (353)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/7ae1328e-45f5-42ce-80e3-784b4dac65d4)
+![Screenshot (361)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/7296b756-46b3-4aca-8e4b-b7ea98dd6d1a)
 
 ![Screenshot (354)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/06f3e339-d845-42cc-81bf-ca9782c0d750)
 
