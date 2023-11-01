@@ -50,32 +50,31 @@ Training Sessions store information on the session ID, the practice date, and mo
 ![Data Model Soccer](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/ae4be42a-38b4-4ef0-93bf-a0ceacdf261a)
 
 # Data Dictionary:
+![Screenshot (343)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/6603c749-244b-4112-91ed-4a598788b61d)
 
-![Screenshot (327)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/9e29114c-c382-4e28-902e-77c7a6e09901)
+![Screenshot (344)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/c85f78dd-b9f2-4e1a-9ed2-ac2cd1fccf1f)
 
-![Screenshot (329)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/30df69a5-bf41-47de-93e6-8621a4e104f6)
+![Screenshot (345)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/18859b4b-bc07-40f5-99fe-d7ed531bd7c6)
 
-![Screenshot (330)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/9af9af9f-398d-45df-a260-9a9a169b24bb)
+![Screenshot (346)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/d0c58c30-5d9f-4e3e-a4a7-5031b789bb0c)
 
-![Screenshot (331)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/86ae3ddf-5652-4684-81d5-3704fc9f17fe)
+![Screenshot (347)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/2452956e-380b-49b7-ac6a-106c748c60a8)
 
-![Screenshot (332)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/8c9cf50d-9493-4749-afe2-2f0f4856ec64)
+![Screenshot (350)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/9737a48b-8324-475f-9d36-7c320292fd9e)
 
-![Screenshot (333)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/f61bb1d9-5f1f-468e-bc0a-7dcc734c9b90)
+![Screenshot (351)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/d0fb7237-e9d4-402a-9094-068e8eb3ddd2)
 
-![Screenshot (334)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/acd9891d-eaf9-4c68-aa29-55b9a1859e80)
+![Screenshot (352)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/bf288892-fc70-4dad-b2d6-f0443f869773)
 
-![Screenshot (335)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/370ce8ad-0608-426e-8301-e010f8c3d849)
+![Screenshot (353)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/7ae1328e-45f5-42ce-80e3-784b4dac65d4)
 
-![Screenshot (336)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/6429c3ac-0a1c-4047-bbdb-63885fc5b0a5)
+![Screenshot (354)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/06f3e339-d845-42cc-81bf-ca9782c0d750)
 
-![Screenshot (337)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/9d3babd5-f61a-44ac-9650-30b309225157)
+![Screenshot (355)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/ae502dfa-04b4-411f-b251-0e6d8389eb5b)
 
-![Screenshot (338)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/3e4ba602-efb1-4b8c-9744-a8ec9e73926c)
+![Screenshot (356)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/2aa916ab-b131-466b-9460-81f58c254cd4)
 
-![Screenshot (339)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/19a6ba05-caf3-4b43-a836-fa2cf530e841)
-
-![Screenshot (340)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/6b3e320a-97f9-497f-8fa8-322493c4d750)
+![Screenshot (357)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/c2b31078-351f-43b6-a1b7-83139af158cb)
 
 # Queries:
 ![Screenshot (341)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/0eff719d-fcd4-4d0b-a956-7a1007a9b55d)
