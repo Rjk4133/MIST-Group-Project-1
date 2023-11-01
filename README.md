@@ -81,7 +81,7 @@ Training Sessions store information on the session ID, the practice date, and mo
 
 1. Query 1 lists how the teams rank in terms of number of goals scored within their respective divisions and what percentage of the league total of goals scored each team accounts for.
 
-INSERT IMAGE 
+![Screenshot (363)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/1b74b397-2567-44e3-8dc3-cb2563390bc1)
 
 Query 1 allows the academy to see what teams score the most goals and their percentage share of total goals scored within the league. This information could be useful, as teams that score a higher percentage of goals in the league would be more likely to get moved to a higher skill division. Teams should be competitive in their division, but not overly competitive as this could result in a skill level imbalance.
 
@@ -93,19 +93,19 @@ Query 2 shows the captains of each team and a ranking of captains by number of g
 
 3. Query 3 lists which coaches have canceled a practice and is ordered by the coach with the greatest number of cancellations descending.
 
-INSERT IMAGE
+![Screenshot (364)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/e10c96f4-768d-4879-b594-de553a96f7cd)
 
 Query 3 allows the Georgia United Soccer Academy to see what coaches are canceling their field reservations and at what rate. This allows management to better manage field reservations, as coaches that tend to cancel their reservations most often get last pick after other coaches select their fields for practice.
 
 4. Query 4 lists the total amount of how much sponsorship money each team has received. The results are ordered by the total amount of money received descending.
 
-INSERT IMAGE
+![Screenshot (365)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/92b0b4b2-25b5-4f0c-9d1f-5e79ba70be5e)
 
 Query 4 shows the league how much money teams have received from their sponsors. This information can be used to spearhead fundraising and new sponsorship outreach efforts for teams with smaller cash inflows from sponsors. This can help teams keep down costs of travel and uniforms for its players.
 
 5. Query 5 lists the first and last name of coaches that have coached more than 10 years who’s specialization is conditioning.
 
-INSERT IMAGE
+![Screenshot (366)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/fecb9fd1-1a92-442b-bb8b-65de058b446e)
 
 Query 5 helps the Georgia United Soccer Academy identify conditioning coaches that may be up for promotion soon. The academy is always looking for Coaching Staff members that show loyalty and have coached for more than 10 years for promotions.
 
@@ -117,7 +117,7 @@ Query 6 shows the soccer academy which players are available to join a team that
 
 7. Query 7 lists the playerID, first name, last name, and number of penalties committed by players who have committed double the average penalties of an ordinary player in the league. The results are ordered by the number of penalties committed descending.
 
-INSERT IMAGE
+![Screenshot (367)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/aa9a7b0d-263d-413f-8b2a-c268734638f8)
 
 Query 7 helps coaches and teams figure out which players are more likely to have penalties than others, which can be an important stat for teams to track about their own players, and their opponents. From a behavioral standpoint as this is a youth league, it is important to identify who is committing far more penalties than their peers in order to intervene while they are still developing. This data can be used by coaches to organize meetings with their players in order to correct this behavior.
 
@@ -129,13 +129,13 @@ Query 8 shows which players in the Football club have had an ACL injury before. 
 
 9. Query 9 lists which coaches have more years of experience than the current head coach that they report to.
 
-INSERT IMAGE
+![Screenshot (368)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/f34c4735-3bb2-47a7-af68-4032021e5986)
 
 Query 9 highlights potential organizational mismanagement within teams and shows the assistant coaches who have more experience than the current head coach they report to. If the season does not go well, this list would provide the basis for potential organizational restructuring and list the coaches who could become the new head coach on their current team.
 
 10. Query 10 lists the number of goals scored by the winning team in each match classified as competitive and the results are ordered by matchID.
 
-INSERT IMAGE
+![Screenshot (369)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/ef222fb7-fb27-4b57-b77d-9d35007b4b5c)
 
 Query 10 lists the total goals scored by a team that won or tied their match in matches that are classified as competitive. This is useful information as it provides a clear record of which team won each individual match in the matches that are competitive and can be used potentially as the basis of an exterior league standings table that assigns points based on wins and losses.
 
