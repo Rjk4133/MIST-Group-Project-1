@@ -87,7 +87,7 @@ Query 1 allows the academy to see what teams score the most goals and their perc
 
 2. Query 2 lists the players who are a captain for each team and the number of goals they have scored in their career at the academy. The results are ordered by the total number of goals they have scored descending.
 
-INSERT IMAGE
+![Screenshot (370)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/7b50f905-d188-4afe-8628-98b67c1ba0b6)
 
 Query 2 shows the captains of each team and a ranking of captains by number of goals scored in their career at the Georgia United Soccer Academy. This information is useful in determining the most accomplished team captains for end of season awards and can help to determine future college soccer options.
 
@@ -111,7 +111,7 @@ Query 5 helps the Georgia United Soccer Academy identify conditioning coaches th
 
 6. Query 6 lists the first and last names of players who are not on a team and the position they play.
 
-INSERT IMAGE
+![Screenshot (371)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/72026cc9-f0ad-4e47-91d4-432201fea1de)
 
 Query 6 shows the soccer academy which players are available to join a team that are not already on one. This would allow coaches to search for players available to play certain positions where they may need another player and also lets the league know which children need to be placed with a team still. 
 
@@ -123,7 +123,7 @@ Query 7 helps coaches and teams figure out which players are more likely to have
 
 8. Query 8 lists which players in the league have had a torn ACL before.
 
-INSERT IMAGE
+![Screenshot (372)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/5910dd88-05df-4740-850f-cc56ef215fdb)
 
 Query 8 shows which players in the Football club have had an ACL injury before. This is important information for the club to keep track of a major injury like this that keeps players out for up to 9 months. If they have a lot of non contact injuries, they might want to consider moving from turf to grass or other preventative measures. In addition to this, the data will show which players are most prone to injury and coaches can take precautions to protect their players. 
 
