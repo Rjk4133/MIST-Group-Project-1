@@ -74,7 +74,7 @@ Training Sessions store information on the session ID, the practice date, and mo
 
 ![Screenshot (356)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/2aa916ab-b131-466b-9460-81f58c254cd4)
 
-![Screenshot (357)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/c2b31078-351f-43b6-a1b7-83139af158cb)
+![Screenshot (362)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/2b124235-19d9-491b-8429-a672c7e3cd9d)
 
 # Queries:
 ![Screenshot (341)](https://github.com/Rjk4133/MIST-Group4-Project-1/assets/148080194/0eff719d-fcd4-4d0b-a956-7a1007a9b55d)
