@@ -143,7 +143,7 @@ Query 10 lists the total goals scored by a team that won or tied their match in 
 
 Name of the database: ns_F2329704Group4
 
-Additional Information: Each query listed above is marked in the database using stored procedures which can be called using the following format: INSERT FORMAT
+Additional Information: Each query listed above is marked in the database using stored procedures which can be called using the following format: "CALL TP_QX()" where X is equal to the query number.
 
 # CHATGPT Logs:
 
